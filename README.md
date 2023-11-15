@@ -9,10 +9,10 @@ Total Demand = 1.44 * Total required
 FTE = Total Demand / 40
 HeadCount = FTE * 1.15
 ```
-The Winforms programm makes a table preview where you can decide for which time intervall you want to download the new excel file. 
+The Winforms programm makes a table preview where you can decide for which time intervall you want to download the new excel file. The Time intervall summens the data together.
 - [x] Daily
 - [ ] Weekly
 - [ ] Monthly
 - [ ] Yearly
 
-The Time intervall summens the data together.
+
